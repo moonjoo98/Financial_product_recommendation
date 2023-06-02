@@ -34,7 +34,8 @@
 4. chatGPT를 활용해 문맥을 파악하는 챗봇을 제공하고, 이를 통해 고객의 챗봇 사용 경험 증진과 편의성 및 접근성을 향상시킬 수 있습니다.
 
 ### - Review
-- 예선 투표 3등으로 마무리
+- 예선 투표 4등으로 마무리
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b49c693e-395b-4c68-ab03-83c5bb43fb88/Untitled.png)
 
 ### - Develope
 - 프롬프트 엔지니어링을 통한 Task에 최적화된 금융 chatGPT 구현
