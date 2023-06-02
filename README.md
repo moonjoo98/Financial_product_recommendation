@@ -35,7 +35,9 @@
 
 ### - Review
 - 예선 투표 4등으로 마무리
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b49c693e-395b-4c68-ab03-83c5bb43fb88/Untitled.png)
+![image](https://github.com/moonjoo98/Financial_product_recommendation/assets/103553532/a2149967-1384-47e3-8acd-8254f9c285d8)
+
+
 
 ### - Develope
 - 프롬프트 엔지니어링을 통한 Task에 최적화된 금융 chatGPT 구현
