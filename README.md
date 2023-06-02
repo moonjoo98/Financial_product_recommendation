@@ -19,6 +19,14 @@
 
 프로토타입 링크 : https://verdant-belekoy-e42fbd.netlify.app
 
+### 프로토타입 예시
+#### 1
+![image](https://github.com/moonjoo98/Financial_product_recommendation/assets/103553532/8e4a4a2d-ac4f-437e-ac4f-586dea9bfac3)
+#### 2
+![image](https://github.com/moonjoo98/Financial_product_recommendation/assets/103553532/87a8a33a-b84c-4a38-b8b4-cd9f7dba8784)
+#### 3
+![image](https://github.com/moonjoo98/Financial_product_recommendation/assets/103553532/aa09b8cd-fa3f-4705-b064-e4665a88a13a)
+
 ### - 기대효과
 1. 투자성향분석 법적 필수 문항 중 마이데이터로 파악할 수 있는 부분을 대체해, 고객의 문항 응답 시간을 줄일 수 있습니다
 2. 마이데이터를 통해 소득상태 ,투자자금 비중, 투자경험을 복합적으로 처리해 단순 문항 응답보다 고도화된 투자성향을 도출할 수 있습니다.
